@@ -1,0 +1,1 @@
+import './style.css';export const metadata={title:'Brazilian Fashion London',description:'Moda casual, fitness e lingerie'};export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="pt-BR"><body>{children}</body></html>}
